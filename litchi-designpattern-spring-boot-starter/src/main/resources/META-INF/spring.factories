@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration= \
+  com.dlmyl.litchi.designpattern.config.LitchiDesignPatternAutoConfiguration
